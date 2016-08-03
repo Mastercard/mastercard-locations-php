@@ -1,0 +1,9 @@
+TAP version 13
+ok 1 - MasterCard\Api\Locations\ATMCountriesTest::test_example_atm_country
+ok 2 - MasterCard\Api\Locations\ATMCountrySubdivisionsTest::test_example_atm_countrysubdivision
+ok 3 - MasterCard\Api\Locations\ATMLocationsTest::test_atm_locations
+ok 4 - MasterCard\Api\Locations\MerchantCategoriesTest::test_example_merchants_category
+ok 5 - MasterCard\Api\Locations\MerchantCountriesTest::test_example_merchants_country
+ok 6 - MasterCard\Api\Locations\MerchantCountrySubdivisionsTest::test_example_merchants_countrysubdivision
+ok 7 - MasterCard\Api\Locations\MerchantLocationsTest::test_example_merchants
+1..7

@@ -1,0 +1,21 @@
+MasterCard\Api\Locations\ATMCountries
+ [x] example atm country
+
+MasterCard\Api\Locations\ATMCountrySubdivisions
+ [x] example atm countrysubdivision
+
+MasterCard\Api\Locations\ATMLocations
+ [x] atm locations
+
+MasterCard\Api\Locations\MerchantCategories
+ [x] example merchants category
+
+MasterCard\Api\Locations\MerchantCountries
+ [x] example merchants country
+
+MasterCard\Api\Locations\MerchantCountrySubdivisions
+ [x] example merchants countrysubdivision
+
+MasterCard\Api\Locations\MerchantLocations
+ [x] example merchants
+
