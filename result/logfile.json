@@ -1,0 +1,124 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 7
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\Locations\\ATMCountriesTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Locations\\ATMCountriesTest",
+    "test": "MasterCard\\Api\\Locations\\ATMCountriesTest::test_example_atm_country"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Locations\\ATMCountriesTest",
+    "test": "MasterCard\\Api\\Locations\\ATMCountriesTest::test_example_atm_country",
+    "status": "pass",
+    "time": 0.97174692153931,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\Locations\\ATMCountrySubdivisionsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Locations\\ATMCountrySubdivisionsTest",
+    "test": "MasterCard\\Api\\Locations\\ATMCountrySubdivisionsTest::test_example_atm_countrysubdivision"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Locations\\ATMCountrySubdivisionsTest",
+    "test": "MasterCard\\Api\\Locations\\ATMCountrySubdivisionsTest::test_example_atm_countrysubdivision",
+    "status": "pass",
+    "time": 0.54609084129333,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\Locations\\ATMLocationsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Locations\\ATMLocationsTest",
+    "test": "MasterCard\\Api\\Locations\\ATMLocationsTest::test_atm_locations"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Locations\\ATMLocationsTest",
+    "test": "MasterCard\\Api\\Locations\\ATMLocationsTest::test_atm_locations",
+    "status": "pass",
+    "time": 0.44513010978699,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\Locations\\MerchantCategoriesTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Locations\\MerchantCategoriesTest",
+    "test": "MasterCard\\Api\\Locations\\MerchantCategoriesTest::test_example_merchants_category"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Locations\\MerchantCategoriesTest",
+    "test": "MasterCard\\Api\\Locations\\MerchantCategoriesTest::test_example_merchants_category",
+    "status": "pass",
+    "time": 0.46266007423401,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\Locations\\MerchantCountriesTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Locations\\MerchantCountriesTest",
+    "test": "MasterCard\\Api\\Locations\\MerchantCountriesTest::test_example_merchants_country"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Locations\\MerchantCountriesTest",
+    "test": "MasterCard\\Api\\Locations\\MerchantCountriesTest::test_example_merchants_country",
+    "status": "pass",
+    "time": 0.50247001647949,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\Locations\\MerchantCountrySubdivisionsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Locations\\MerchantCountrySubdivisionsTest",
+    "test": "MasterCard\\Api\\Locations\\MerchantCountrySubdivisionsTest::test_example_merchants_countrysubdivision"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Locations\\MerchantCountrySubdivisionsTest",
+    "test": "MasterCard\\Api\\Locations\\MerchantCountrySubdivisionsTest::test_example_merchants_countrysubdivision",
+    "status": "pass",
+    "time": 0.49457883834839,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\Locations\\MerchantLocationsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Locations\\MerchantLocationsTest",
+    "test": "MasterCard\\Api\\Locations\\MerchantLocationsTest::test_example_merchants"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Locations\\MerchantLocationsTest",
+    "test": "MasterCard\\Api\\Locations\\MerchantLocationsTest::test_example_merchants",
+    "status": "pass",
+    "time": 0.59170818328857,
+    "trace": [],
+    "message": "",
+    "output": ""
+}
