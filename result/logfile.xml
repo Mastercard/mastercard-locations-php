@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="7" assertions="85" failures="0" errors="0" time="4.647468">
+    <testsuite name="MasterCard\Api\Locations\ATMCountriesTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Locations-Php/workspace/generated-code/locations/php/sdk/Test/MasterCard/Api/Locations/ATMCountriesTest.php" tests="1" assertions="9" failures="0" errors="0" time="1.534396">
+      <testcase name="test_example_atm_country" class="MasterCard\Api\Locations\ATMCountriesTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Locations-Php/workspace/generated-code/locations/php/sdk/Test/MasterCard/Api/Locations/ATMCountriesTest.php" line="51" assertions="9" time="1.534396"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\Locations\ATMCountrySubdivisionsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Locations-Php/workspace/generated-code/locations/php/sdk/Test/MasterCard/Api/Locations/ATMCountrySubdivisionsTest.php" tests="1" assertions="6" failures="0" errors="0" time="0.783042">
+      <testcase name="test_example_atm_countrysubdivision" class="MasterCard\Api\Locations\ATMCountrySubdivisionsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Locations-Php/workspace/generated-code/locations/php/sdk/Test/MasterCard/Api/Locations/ATMCountrySubdivisionsTest.php" line="51" assertions="6" time="0.783042"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\Locations\ATMLocationsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Locations-Php/workspace/generated-code/locations/php/sdk/Test/MasterCard/Api/Locations/ATMLocationsTest.php" tests="1" assertions="27" failures="0" errors="0" time="0.706512">
+      <testcase name="test_atm_locations" class="MasterCard\Api\Locations\ATMLocationsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Locations-Php/workspace/generated-code/locations/php/sdk/Test/MasterCard/Api/Locations/ATMLocationsTest.php" line="51" assertions="27" time="0.706512"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\Locations\MerchantCategoriesTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Locations-Php/workspace/generated-code/locations/php/sdk/Test/MasterCard/Api/Locations/MerchantCategoriesTest.php" tests="1" assertions="10" failures="0" errors="0" time="0.430703">
+      <testcase name="test_example_merchants_category" class="MasterCard\Api\Locations\MerchantCategoriesTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Locations-Php/workspace/generated-code/locations/php/sdk/Test/MasterCard/Api/Locations/MerchantCategoriesTest.php" line="51" assertions="10" time="0.430703"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\Locations\MerchantCountriesTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Locations-Php/workspace/generated-code/locations/php/sdk/Test/MasterCard/Api/Locations/MerchantCountriesTest.php" tests="1" assertions="9" failures="0" errors="0" time="0.410245">
+      <testcase name="test_example_merchants_country" class="MasterCard\Api\Locations\MerchantCountriesTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Locations-Php/workspace/generated-code/locations/php/sdk/Test/MasterCard/Api/Locations/MerchantCountriesTest.php" line="51" assertions="9" time="0.410245"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\Locations\MerchantCountrySubdivisionsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Locations-Php/workspace/generated-code/locations/php/sdk/Test/MasterCard/Api/Locations/MerchantCountrySubdivisionsTest.php" tests="1" assertions="6" failures="0" errors="0" time="0.415201">
+      <testcase name="test_example_merchants_countrysubdivision" class="MasterCard\Api\Locations\MerchantCountrySubdivisionsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Locations-Php/workspace/generated-code/locations/php/sdk/Test/MasterCard/Api/Locations/MerchantCountrySubdivisionsTest.php" line="51" assertions="6" time="0.415201"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\Locations\MerchantLocationsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Locations-Php/workspace/generated-code/locations/php/sdk/Test/MasterCard/Api/Locations/MerchantLocationsTest.php" tests="1" assertions="18" failures="0" errors="0" time="0.367369">
+      <testcase name="test_example_merchants" class="MasterCard\Api\Locations\MerchantLocationsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Locations-Php/workspace/generated-code/locations/php/sdk/Test/MasterCard/Api/Locations/MerchantLocationsTest.php" line="51" assertions="18" time="0.367369"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
